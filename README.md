@@ -32,7 +32,7 @@ dependencies: [
 In your `Podfile`, add `swift-zulip-api`.
 
 ```ruby
-pod 'swift-zulip-api'
+pod 'swift-zulip-megafon-api'
 ```
 
 Then run `pod install` from the terminal.
