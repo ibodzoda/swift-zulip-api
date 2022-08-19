@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/ibodzoda/swift-zulip-api'
   s.source_files = 'sources/SwiftZulipAPI'
   s.source = {
-    :git => 'https://github.com/ibodzoda/swift-zulip-api.git',
+    :git => 'https://github.com/ibodzoda/swift-zulip-api.git', :branch => "master" 
     :tag => '0.3.0'
   }
   s.swift_version = '5.0'
