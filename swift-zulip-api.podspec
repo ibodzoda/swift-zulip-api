@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'swift-zulip-api'
+  s.name = 'swift-zulip-megafon-api'
   s.version = '0.3.0'
   s.summary = 'A library to access the Zulip API with Swift.'
   s.license = { :type => 'MIT' }
